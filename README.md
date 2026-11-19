@@ -36,7 +36,7 @@ cards, and slicers.
 -   Prepared approximately 9,949 cleaned records.
 
 ## Dashboard Structure
-
+!(1-Overall%20Overview.png)
 1.  Overall Overview
 2.  Detailed Analysis
 3.  Key Insights
@@ -46,6 +46,7 @@ Interactive slicers: Year, Month, Sales Method, Retailer, Product, and
 Region. Slicers are connected across relevant dashboard views.
 
 ## Key Performance Indicators
+!(2-Detailed%20%Analysis.png)
 
 -   Total Sales: sum of sales.
 -   Operating Profit: sum of operating profit.
@@ -53,6 +54,7 @@ Region. Slicers are connected across relevant dashboard views.
 -   Operating Margin: total operating profit divided by total sales.
 
 ## Key Business Insights
+!(3-Key%20Insights.png)
 
 ### 1. Weekly Sales Performance
 
@@ -102,6 +104,7 @@ generally show declines. Review Outlet performance by region rather than
 treating it as one uniform pattern.
 
 ### 8. Outlet Performance by Retailer in 2021
+!(4-Outlet%20Performance%20&%20Trends.png)
 
 West Gear records approximately \$24.8 million in Outlet sales in Q1,
 compared with approximately \$1.5 million across Q2--Q4 combined. Kohl's
